@@ -69,7 +69,7 @@ Report suspected security problems via our contact info.
 
 ## Support
 
-For any further assistance, please contact the IT support team at support@kfupm.edu.sa or call us at +966138601414 during our working hours.
+For any further assistance, please contact the IT support team at ****@kfupm.edu.sa or call us at +96613**** during our working hours.
 
 ## License
 
